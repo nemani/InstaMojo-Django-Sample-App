@@ -1,0 +1,1 @@
+instamojo-wrapper==1.1
